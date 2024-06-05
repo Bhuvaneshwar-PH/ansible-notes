@@ -1,6 +1,6 @@
 # Ansible Zero to Hero
 
-Day 1: Introduction to Ansible and Getting Started
+Day 1: Introduction to Ansible and Getting Started..!
 
 - Overview of Ansible: What is Ansible, its advantages, and why use it?
 - Comparison with Shell and Python scripting for automation.
